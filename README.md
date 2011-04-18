@@ -6,7 +6,7 @@ in project.clj under dev dependencies add
 
 [lein-plugins "1.0.1"]
 
-The jar i located at clojars.org
+The jar is located at clojars.org
 
 ## Usage
 in projcect.clj 
