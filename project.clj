@@ -1,4 +1,4 @@
-(defproject lein-lazytest "1.0.2-SNAPSHOT"
+(defproject lein-plugins  "1.0.2-SNAPSHOT"
   :description "Lein plugin for starting LazyTest watch"
   :dependencies [[org.clojure/clojure "1.2.0"]
                  [org.clojure/clojure-contrib "1.2.0"]]
