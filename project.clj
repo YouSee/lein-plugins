@@ -1,4 +1,4 @@
-(defproject yij/lein-plugins  "1.0.3"
+(defproject yij/lein-plugins  "1.0.4"
   :description "Lein plugins"
   :dependencies [[org.clojure/clojure "1.2.0"]
                  ]
